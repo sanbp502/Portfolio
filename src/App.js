@@ -3,7 +3,7 @@ import SideBar from "./SideBar";
 function App() {
   return (
    <div className="flex">
-    <SideBar/>
+    <SideBar/>I am once again testing
    </div>
   );
 }
